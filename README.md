@@ -24,6 +24,15 @@ link to short videos on youtube and tiktok
 - **Control:** Proportional-Derivative Control System to keep platform level
 
 #Files
+- bno055/bno055.ino -> Arduino File
+- Simulation and Serial Connection
+  - bnodata.py  -> Serial Connection and Data Sorting
+  - sim.py  -> contains simulation in 3D through VPython
+
+
+
+
+
 ## 🛠️ Components Used
 - Arduino Uno
 - BNO055 IMU
